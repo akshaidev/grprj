@@ -1,2 +1,2 @@
 print("akshat")
-print("Hi akshat babe")
+print('second line it is')
